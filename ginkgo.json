@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1696252966,
+      "filename": "lineage-20.0-20231002-UNOFFICIAL-REMIX-ginkgo.zip",
+      "id": "bc0e3baa7f261731c4d370a203ad9a6e",
+      "romtype": "UNOFFICIAL",
+      "size": 1129616559,
+      "url": "https://github.com/plros/OTA/releases/download/IV_(Druiswurm)/lineage-20.0-20231002-UNOFFICIAL-REMIX-ginkgo.zip",
+      "version": "20.0"
+    }
+  ]
+}
