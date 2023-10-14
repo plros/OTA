@@ -1,3 +1,16 @@
+14-10-2023
+
+PLROS changelogs:
+- Based on LineageOS 20, updated as 13-10-2023
+- October 2023 ASB
+
+LineageOS changelogs:
+https://download.lineageos.org/changes
+
+Device changelogs:
+- Update KernelSU version up to tag v0.6.9
+- Enable AOSP toggle SIM
+
 02-10-2023
 
 PLROS changelogs:
