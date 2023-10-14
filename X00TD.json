@@ -1,12 +1,21 @@
 {
   "response": [
     {
-      "datetime": 1696252966,
+      "datetime": 1696173647,
       "filename": "lineage-20.0-20231001-UNOFFICIAL-REMIX-X00TD.zip",
       "id": "2e539e4ae57f44cd1908d68627dbc5ea",
       "romtype": "UNOFFICIAL",
       "size": 986312382,
       "url": "https://github.com/plros/OTA/releases/download/IV_(Druiswurm)/lineage-20.0-20231001-UNOFFICIAL-REMIX-X00TD.zip",
+      "version": "20.0"
+    }
+    {
+      "datetime": 1697198412,
+      "filename": "lineage-20.0-20231013-UNOFFICIAL-REMIX-X00TD.zip",
+      "id": "10fbaabcd89ef90837dc80c3c0c26823",
+      "romtype": "UNOFFICIAL",
+      "size": 987359047,
+      "url": "https://github.com/plros/OTA/releases/download/V_(Emergence)/lineage-20.0-20231013-UNOFFICIAL-REMIX-X00TD.zip",
       "version": "20.0"
     }
   ]
