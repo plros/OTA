@@ -1,6 +1,15 @@
 {
   "response": [
     {
+      "datetime": 1700346172,
+      "filename": "lineage-20.0-20231118-UNOFFICIAL-REMIX-X00TD_4_4.zip",
+      "id": "901bb5f89799a97d6b729f484d666106",
+      "romtype": "UNOFFICIAL",
+      "size": 1108302549,
+      "url": "https://github.com/plros/OTA/releases/download/VI_(Fenrir)/lineage-20.0-20231118-UNOFFICIAL-REMIX-X00TD_4_4.zip",
+      "version": "20.0"
+    },
+    {
       "datetime": 1697159747,
       "filename": "lineage-20.0-20231013-UNOFFICIAL-REMIX-X00TD_4_4.zip",
       "id": "8dbf292cf76ead96c6aca04df2387dea",

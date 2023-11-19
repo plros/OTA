@@ -1,6 +1,15 @@
 {
   "response": [
     {
+      "datetime": 1700356295,
+      "filename": "lineage-20.0-20231119-UNOFFICIAL-REMIX-ginkgo.zip",
+      "id": "51e205749a1c20d7d6fc1916eb8beea6",
+      "romtype": "UNOFFICIAL",
+      "size": 1201170294,
+      "url": "https://github.com/plros/OTA/releases/download/VI_(Fenrir)/lineage-20.0-20231119-UNOFFICIAL-REMIX-ginkgo.zip",
+      "version": "20.0"
+    },
+    {
       "datetime": 1697241003,
       "filename": "lineage-20.0-20231013-UNOFFICIAL-REMIX-ginkgo.zip",
       "id": "a7d8589540c9dd6d83c8d467a4704d45",
