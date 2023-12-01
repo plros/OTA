@@ -1,6 +1,15 @@
 {
   "response": [
     {
+      "datetime": 1701440928,
+      "filename": "lineage-20.0-20231201-UNOFFICIAL-REMIX-ginkgo.zip",
+      "id": "f65a7bc8d636f199cd132c26bfd4c79c",
+      "romtype": "UNOFFICIAL",
+      "size": 1201009883,
+      "url": "https://github.com/plros/OTA/releases/download/VI.I_(Fountain)/lineage-20.0-20231201-UNOFFICIAL-REMIX-ginkgo.zip",
+      "version": "20.0"
+    },
+    {
       "datetime": 1700356295,
       "filename": "lineage-20.0-20231119-UNOFFICIAL-REMIX-ginkgo.zip",
       "id": "51e205749a1c20d7d6fc1916eb8beea6",

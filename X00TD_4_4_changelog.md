@@ -1,3 +1,18 @@
+## 01-12-2023
+
+PLROS changelogs:
+- Based on LineageOS 20, updated as 30-11-2023
+- Change fingerprint spoof to pass Play Integrity again
+- Improve many SystemUI and Settings icons
+- Update Cromite to latest version
+- Make Cromite overrideable for user installing new version
+
+LineageOS changelogs:
+https://download.lineageos.org/changes
+
+Device changelogs:
+- Improved overall stability and performance
+
 ## 19-11-2023
 
 PLROS changelogs:
