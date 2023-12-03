@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1701418500,
-      "filename": "lineage-20.0-20231201-UNOFFICIAL-REMIX-X00TD_4_4.zip",
-      "id": "a7bc2bb45fb267f85d42e81621f6bb26",
+      "datetime": 1701526026,
+      "filename": "lineage-20.0-20231202-UNOFFICIAL-REMIX-X00TD_4_4.zip",
+      "id": "0303e0657efed792460343e51bef3e6a",
       "romtype": "UNOFFICIAL",
-      "size": 1107602136,
-      "url": "https://github.com/plros/OTA/releases/download/VI.I_(Fountain)/lineage-20.0-20231201-UNOFFICIAL-REMIX-X00TD_4_4.zip",
+      "size": 958082136,
+      "url": "https://github.com/plros/OTA/releases/download/VI.I_(Fountain)/lineage-20.0-20231202-UNOFFICIAL-REMIX-X00TD_4_4.zip",
       "version": "20.0"
     },
     {
